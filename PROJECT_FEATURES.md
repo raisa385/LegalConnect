@@ -19,3 +19,4 @@ Feature 4: Lawyer Profile Management
 
 -added edit button
 
+"Profile Box UI added" 
