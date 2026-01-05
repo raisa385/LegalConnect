@@ -8,3 +8,4 @@ Feature 1: Top Bar
 -added login button
 -added Get Started button
 -added pricing button
+"Profile Box UI added" 
