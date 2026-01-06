@@ -20,3 +20,8 @@ Feature 4: Lawyer Profile Management
 -added edit button
 
 "Profile Box UI added" 
+
+Feature 2: Admin Dashboard
+-added dashboard
+-added cases history
+-added reviews
